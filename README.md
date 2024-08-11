@@ -5,8 +5,7 @@ collection of tools/approaches/methods for everyday work.
 
 ## Analysing
 
-## Negotiations
-
-## Customer interaction
+## People interaction
+* [negotiations](./negotiations.md)
 
 ## Employee adaptation
