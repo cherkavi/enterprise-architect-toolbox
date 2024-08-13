@@ -10,11 +10,12 @@
 > * Coherence - use/update notes ( a bit create new ) 
 > * Details   -        use notes ( a bit update )  
 > *after "Details" you can start from the beginning but on another level*
-
-![togaf metamodel](https://i.postimg.cc/fLZCJmPS/archimate-04.png)    
-![togaf aspects](https://i.postimg.cc/BbmmWbML/archimate-01.png)    
-
-![togaf layers](https://i.postimg.cc/904Rb3GK/archimate3-layers.png)    
+* Metamodel
+![togaf metamodel]( https://i.ibb.co/Z1QLbsp/archimate-metamodel.png)    
+* Aspects
+![togaf aspects]( https://i.ibb.co/42qsSws/archimate-meta-relations.png)    
+* Layers
+![togaf layers]( https://i.ibb.co/x1C2rhH/archimate-layers.png)    
 
 # Archimate extensions 
 
