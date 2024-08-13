@@ -13,13 +13,13 @@
 |                                     |                                      |
 |                                     |                                      |
 ------------------------------------------------------------------------------
-|                                                                            |
-|                         Demands to the "opponent"                          |
-|                          What ? How to measure ?                           |
-|                                                                            |
-|                                                                            |
-|                                                                            |
-|                                                                            |
+|                                                     |     Opponent's       |
+|                Demands to the "opponent"            |      Emotional       |
+|                 What ? How to measure ?             |     Distinctives     |
+|                                                     |                      |
+|                                                     |                      |
+|                                                     |                      |
+|                                                     |                      |
 ------------------------------------------------------------------------------
                                 
                           Subject/Goal of negotiations
@@ -30,12 +30,13 @@
                          
 
 ------------------------------------------------------------------------------
-|                                                                            |
-|                         Demands to the "opponent"                          |
-|                          What ? How to measure ?                           |
-|                                                                            |
-|                                                                            |
-|                                                                            |
+|                                                     |     Opponent's       |
+|                Demands to the "opponent"            |      Emotional       |
+|                 What ? How to measure ?             |     Distinctives     |
+|                                                     |                      |
+|                                                     |                      |
+|                                                     |                      |
+|                                                     |                      |
 ------------------------------------------------------------------------------
 |                                     |                                      |
 |    ("my") interests and values      |     ("my") concerns and risks        |
