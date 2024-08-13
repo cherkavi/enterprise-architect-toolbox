@@ -40,8 +40,48 @@
 
 # Communication between applications
 ## File System 
-## Shared DB
-## RMI
-## messaging
-![2git-messaging](https://github.com/cherkavi/cheat-sheet/assets/8113355/e3062328-7afb-4a8c-b9a7-b458689c5ed0)
 
+## Shared DB
+
+## RMI
+
+### REST 
+> can be considered as a RemoteMethodInvocation
+```mermaid
+flowchart LR
+
+a[component A] --->|triggs| b[component B]
+```
+* both of the services must be online
+* for scaling need to add additional layer ( facade/InformationExpert )
+
+## messaging
+### Kafka
+**Model:** Publisher(1) --> Subscriber(*)  
+"Component B" must ask by himself the Broker
+```mermaid
+flowchart LR
+
+a(component A) --->|triggs| br(broker)
+
+br <---|triggs| b(component B) 
+
+m[message]
+a -.->|create| m  -.->|read| b
+```
+
+[local start is cumbersome](https://github.com/cherkavi/docker-images/tree/master/kafka/)
+
+
+### JMS ( or even ReDis stream)
+**Model:** Producer(1) --> Consumer(+)
+```mermaid
+flowchart LR
+
+a(component A) --->|triggs| br(broker)
+
+br --->|triggs| b(component B) 
+
+m[message]
+a -.->|create| m  -.->|read| b
+```
