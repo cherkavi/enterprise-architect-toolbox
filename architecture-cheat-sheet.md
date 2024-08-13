@@ -13,7 +13,7 @@
 * Product customization
 
 ## Architecture context
-![architecture context](https://i.postimg.cc/3rG2VYKf/architecture-context.png)
+![architecture context]( https://i.ibb.co/YWth7fR/architecture-context.png)
 
 ## Waterfall++ - [V-Model system design](https://en.wikipedia.org/wiki/V-model_(software_development))
 ![v-model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Systems_Engineering_Process_II.svg/599px-Systems_Engineering_Process_II.svg.png)
