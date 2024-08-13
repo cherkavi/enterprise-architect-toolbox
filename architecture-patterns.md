@@ -1,16 +1,11 @@
 # Architecture patterns
-## [Antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
-![architecture antipatterns](https://i.postimg.cc/Kz3gQFy8/architecture-antipatterns.png)
-
-## Software architecture patterns
-![architecture patterns](https://i.postimg.cc/Gm8T42L4/architecture-patterns.png)
-> TODO: [cell-based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) (cellular architecture)
-
 ## Architecture cycle/phases
-![architecture phases](https://i.postimg.cc/brdDyd37/architecture-phases.png)
+![architecture phases]( https://i.ibb.co/rk7bkK3/architecture-phases.png)
 
 # Architecture styles
-![architecture styles](https://i.postimg.cc/5yD8PZcn/architecture-types.png)
+![architecture styles](https://i.ibb.co/52ZqR8M/architecture-patterns.png)
+> TODO: [cell-based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) (cellular architecture)
+
 ## Architecture style: Microservice
 ### Microservices Benefits:
 * Independent Deployments
@@ -85,3 +80,6 @@ br --->|triggs| b(component B)
 m[message]
 a -.->|create| m  -.->|read| b
 ```
+
+## [Antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
+![architecture antipatterns]( https://i.ibb.co/kKHwNKP/architecture-antipatterns.png)
