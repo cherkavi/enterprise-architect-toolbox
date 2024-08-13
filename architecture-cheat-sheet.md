@@ -83,7 +83,7 @@ documentation)Documentation(
 ```
 
 ## Examples
-![Big Data cluster](https://github.com/cherkavi/cheat-sheet/assets/8113355/e44f9068-97d1-4e96-a2b7-acbf4f0edac5)
+![Big Data cluster](https://i.ibb.co/Y8LB999/example-big-data-cluster.png)
 
 
 ## Useful links
