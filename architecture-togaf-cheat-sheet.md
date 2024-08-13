@@ -19,10 +19,10 @@
 # Archimate extensions 
 
 ## Archimate with Sequence diagram ( my own invention )
-![image](https://user-images.githubusercontent.com/8113355/206921007-21643c2b-da3f-4930-a79c-4462562017e1.png)
+![archimage with sequence diagram](https://i.ibb.co/W5shXP9/archimate-sequence-diagram.png)
 
 ## Archimate with Class diagram 
-![image](https://github.com/cherkavi/cheat-sheet/assets/8113355/a567541c-1535-4ad6-a837-087f4d807b8d)
+![archimate with class diagram](https://i.ibb.co/rwH798t/archimate-with-class-diagrams.png)
 
 
 ## useful links
