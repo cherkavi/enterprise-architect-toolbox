@@ -1,5 +1,12 @@
 # Architecture patterns
-## Architecture cycle/phases
+* Patterns of Enterprise Application Architecture ( Martin Fowler )
+* Software Architecture Patterns ( Mark Richards )
+* Enterprise Integration Patterns ( Gregor Hohpe )
+
+# [Antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
+![architecture antipatterns]( https://i.ibb.co/kKHwNKP/architecture-antipatterns.png)
+
+# Architecture phases
 ![architecture phases]( https://i.ibb.co/rk7bkK3/architecture-phases.png)
 
 # Architecture styles
@@ -38,7 +45,7 @@
 
 ## Shared DB
 
-## RMI
+## RMI - remote method invocation
 
 ### REST 
 > can be considered as a RemoteMethodInvocation
@@ -80,6 +87,3 @@ br --->|triggs| b(component B)
 m[message]
 a -.->|create| m  -.->|read| b
 ```
-
-## [Antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
-![architecture antipatterns]( https://i.ibb.co/kKHwNKP/architecture-antipatterns.png)
