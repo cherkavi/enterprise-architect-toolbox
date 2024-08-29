@@ -19,12 +19,15 @@
 
 # Archimate extensions 
 
+## archi tool
+## Archimate to SVG export improvement. Update destination SVG with all links from documentation properties ( also add popup hints to elements).
+https://github.com/cherkavi/python-utilities/tree/master/xml-archimate2svg
+
 ## Archimate with Sequence diagram ( my own invention )
 ![archimage with sequence diagram](https://i.ibb.co/W5shXP9/archimate-sequence-diagram.png)
 
 ## Archimate with Class diagram 
 ![archimate with class diagram](https://i.ibb.co/rwH798t/archimate-with-class-diagrams.png)
-
 
 ## useful links
 * [specification](https://pubs.opengroup.org/architecture/archimate3-doc/)
