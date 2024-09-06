@@ -82,6 +82,26 @@ documentation)Documentation(
         real Agile
 ```
 
+## Data Architect
+
+### EKI
+```
+Data + Context = Information
+                 Information + Action = Knowledge
+                                        Knowledge++ = Experience
+```
+
+### Business values of data
+* cheaper
+* better
+* smarter
+
+### Data Strategy
+1. caputre & collect
+2. clean & prepare
+3. $ - capitalize
+
+---
 ## Examples
 ![Big Data cluster](https://i.ibb.co/Y8LB999/example-big-data-cluster.png)
 
