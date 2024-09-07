@@ -8,7 +8,6 @@
 2. Group of people ( 2+ )
 3. Single person ( at the end )
    > In most cases it will be one-to-one conversation ( even with couple of people each of them will be responsible for separate area ).
-   ![Icons](https://github.com/user-attachments/assets/f983fb85-70b6-4877-846d-987e86176113)
 
 #### **What you want to achieve**
 between you and your goal there are 1+ steps
@@ -55,6 +54,7 @@ Each "explanation card" should have 1-3 icons/tags to show the emotions like:
 7. dangerous
 8. resources
 9. capability 
+![Icons](https://github.com/user-attachments/assets/f983fb85-70b6-4877-846d-987e86176113)
 
 #### Opponent's concerns and risks 
 prepare story(ies) about each of them 
