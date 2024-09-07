@@ -1,15 +1,17 @@
 # Negotiations
+1. collect information about your [opponent](#opponent)
+2. prepare for negotiations with [negotiation map](#negotiation-map)
+3. during the negotiations [make notes](#making-notes) and write your thoughts
+4. make a "retrospective" afterwards
 
-## Negotiation map
-
-### Opponent 
-#### You can speak with:
+## Opponent 
+### You can speak with:
 1. Organization ( no persons, just business roles )
 2. Group of people ( 2+ )
 3. Single person ( at the end )
    > In most cases it will be one-to-one conversation ( even with couple of people each of them will be responsible for separate area ).
 
-#### **What you want to achieve**
+### **What you want to achieve**
 between you and your goal there are 1+ steps
 ```mermaid
 flowchart LR 
@@ -40,6 +42,7 @@ flowchart LR
 y(you) --> s1((.))  --> s2((.))  --> s3((.))  --> s4((.)) --> s5((.)) --> o(opponent) --> g[(goal)]
 ```
 
+## Negotiation map
 
 ### Advices
 #### Explanation cards
@@ -142,4 +145,14 @@ prepare story(ies) about each of them
 ------------------------------------------------------------------------------
 ```
 
-### after writing 
+## making notes
+```
+------------------------------------------------------------------------------
+|                                                     |                      |
+|                                                     |     Your emotion     |
+|                    Discussed point                  |     Action point     |
+|                 Who ? What ?                        |     Icon/tag  it     |
+|                              Is this for you ?      |                      |
+|                                                     |                      |
+------------------------------------------------------------------------------
+```
