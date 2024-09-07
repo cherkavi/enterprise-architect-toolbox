@@ -8,6 +8,7 @@
 2. Group of people ( 2+ )
 3. Single person ( at the end )
    > In most cases it will be one-to-one conversation ( even with couple of people each of them will be responsible for separate area ).
+   ![Icons](https://github.com/user-attachments/assets/f983fb85-70b6-4877-846d-987e86176113)
 
 #### **What you want to achieve**
 between you and your goal there are 1+ steps
