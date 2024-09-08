@@ -72,6 +72,8 @@ Each "explanation card" should have 1-3 icons/tags to show the emotions like:
 9. capability 
 ![Icons](https://github.com/user-attachments/assets/f983fb85-70b6-4877-846d-987e86176113)
 
+💡 **during online conversation**: nice to have all "explanation cards" in front of view during the conversation
+
 #### Opponent's concerns and risks 
 prepare story(ies) about each of them 
 
