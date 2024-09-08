@@ -43,6 +43,19 @@ y(you) --> s1((.))  --> s2((.))  --> s3((.))  --> s4((.)) --> s5((.)) --> o(oppo
 ```
 
 ## Negotiation map
+similar (diff focus) tool: [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+```
+----------------------------------------------------
+|                        |                         |
+|     _S_trenghts        |       _W_eakness        |
+|                        |                         |
+----------------------------------------------------
+|                        |                         |
+|    _O_pportunities     |        _T_hreats        |
+|                        |                         |
+----------------------------------------------------
+```
+
 
 ### Advices
 #### Explanation cards
