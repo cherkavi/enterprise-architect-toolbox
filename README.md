@@ -11,6 +11,7 @@ collection of tools/approaches/methods for everyday work.
 ## People interaction
 * [pre negotiations, proposal/offer](./proposal-offer.md)
 * [negotiations](./negotiations.md)
+* [conflicts](./conflict.md)
 
 ## Employee adaptation
 
