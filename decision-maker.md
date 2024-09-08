@@ -1,5 +1,5 @@
 # Decision maker
-tool for making decision in cumbersome cases - when you have a lot of emotions ( or/and a lot of people )
+tool for making decision in cumbersome cases - when you have a lot of uncertainties/emotions ( or/and a lot of people )
 
 ## collect all factors that make (even potentially ) influence on your decision
 during this "mind storm" think about:
