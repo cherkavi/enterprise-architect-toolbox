@@ -12,6 +12,32 @@
 * Coding vs Configuration
 * Product customization
 
+## Architects ( roles )
+* Enterprise
+* Solution(System)
+* Software(Technical)
+* Infrastructure
+
+## Architecture Design
+![design]( https://i.ibb.co/P4d0DdQ/architecture-design.png)
+1. Analyze Business Drivers, Stakeholders
+2. Analyze Goals and more specific Outcomes
+3. Gather Requirements from each Outcome
+4. prioritize Requirements - find out ASR
+5. split them to Functional and NonFunctional Requirements
+6. Define [Quality Attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes) for NonFunctional Requirements
+7. Depict Current Architecture
+8. Design Target Architecture ( with Options to achieve MVP )
+9. Migration Plan to target architecture
+
+## Agile and Architecture
+1. not exhausted UpFront design
+2. Documentation only with critical points
+3. Main contributors of decisions - Stakeholders
+4. Incrementatl design
+5. Growing Architecture
+6. Value is visible after 2-3 releases
+
 ## Architecture context
 ![architecture context]( https://i.ibb.co/YWth7fR/architecture-context.png)
 
