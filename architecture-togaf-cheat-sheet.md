@@ -5,6 +5,15 @@
 ![base-target](https://i.postimg.cc/SxzC9f9z/togaf-base-target.png)  
 
 # Archimate
+## useful links
+* [specification](https://pubs.opengroup.org/architecture/archimate3-doc/)
+* [guide](https://www.visual-paradigm.com/guide/archimate/full-archimate-viewpoints-guide/)
+* [guide](https://archimate-community.pages.opengroup.org/workgroups/archimate-101/)
+* [archimate cheat-sheet](https://gbruneau.github.io/ArchiMate/)
+* [how to draw diagrams](https://www.visual-paradigm.com/support/documents/vpuserguide/4455/4409/86421_howtodrawarc.html)
+* [blog about modeling](http://renewableplus.blogspot.com/2017/03/modeling-applications-technology-in.html)
+* [blog examples](https://www.hosiaisluoma.fi/blog/archimate-examples/)
+
 ![when to use archimate](https://archimate-community.pages.opengroup.org/workgroups/archimate-101/part_1/images/why_6.png)
 > * Research  -     create notes   
 > * Coherence - use/update notes ( a bit create new ) 
@@ -24,16 +33,9 @@ Update destination SVG with all links from documentation properties ( also add p
 ## Archimate with Sequence diagram ( my own invention )
 ![archimage with sequence diagram](https://i.ibb.co/W5shXP9/archimate-sequence-diagram.png)
 
-## Archimate with Class diagram 
+## Archimate with Class diagram  ( my own invention )
 ![archimate with class diagram](https://i.ibb.co/rwH798t/archimate-with-class-diagrams.png)
 
-## useful links
-* [specification](https://pubs.opengroup.org/architecture/archimate3-doc/)
-* [guide](https://www.visual-paradigm.com/guide/archimate/full-archimate-viewpoints-guide/)
-* [guide](https://archimate-community.pages.opengroup.org/workgroups/archimate-101/)
-* [how to draw diagrams](https://www.visual-paradigm.com/support/documents/vpuserguide/4455/4409/86421_howtodrawarc.html)
-* [blog about modeling](http://renewableplus.blogspot.com/2017/03/modeling-applications-technology-in.html)
-* [blog examples](https://www.hosiaisluoma.fi/blog/archimate-examples/)
 
 # Start drawing
 ## [Perspectives](http://weblog.tetradian.com/2012/06/06/inside-in-inside-out-outside-in-outside-out/)
