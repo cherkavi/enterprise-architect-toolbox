@@ -61,14 +61,15 @@
   * implementation
 * test
 
-
-## Architecture Decision Records
-* Priority
-* Stakeholders
+## ADR 
+[Architecture Decision Records](https://adr.github.io/)
+* Context
+* Decision
+* Refused options
 * Status
-* Owners ( lead of activities )
 * Assumptions
-* Risks
+* Constraints
+* Consequences
 
 ## resilient architecture
 * Timeouts
@@ -88,6 +89,7 @@
 
 # Why software architecture
 ![software architecture](https://i.postimg.cc/D0cMGPPc/software-architecture.png)
+
 ## Why to make a documentation:
 ```mermaid
 mindmap
