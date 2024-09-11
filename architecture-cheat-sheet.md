@@ -21,10 +21,12 @@
 ## Architecture Design
 ![design]( https://i.ibb.co/P4d0DdQ/architecture-design.png)
 1. Analyze Business Drivers, Stakeholders
-2. Analyze Goals and more specific Outcomes
+2. From Assessment (result of evaluation) need to set Goals and more specific Outcomes
 3. Gather Requirements from each Outcome
 4. prioritize Requirements - find out ASR
-5. split them to Functional and NonFunctional Requirements
+5. split them to Functional and NonFunctional Requirements  
+   > provide the appropriate level of details 
+   > to allow develop/implement the solution.
 6. Define [Quality Attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes) for NonFunctional Requirements
 7. Depict Current Architecture
 8. Design Target Architecture ( with Options to achieve MVP )
@@ -40,6 +42,47 @@
 
 ## Architecture context
 ![architecture context]( https://i.ibb.co/YWth7fR/architecture-context.png)
+
+## Start drawing, drawing focus and purposes
+### [Perspectives](http://weblog.tetradian.com/2012/06/06/inside-in-inside-out-outside-in-outside-out/)
+* **inside-in**
+  > develop a broad understanding of what clean-up would be required    
+  > _within each domain in scope_   
+* **outside-out**
+  > develop a broad understanding of the  
+  > _overall business-ecosystem_, in its own terms,   
+  > independent of our own organisation  
+* **outside-in**
+  > develop a broad to detailed understanding of  
+  > _how others would interact and transact with our organisation_, from their perspective  
+* **inside-out**
+  > (usually together with a detailed _inside-in_): develop a detailed architecture     
+  > for each domain, each from its own perspective,    
+  > drawing on each of _outside-in_ perspectives for guidance    
+
+### Purpose/Viewpoints
+inside-in
+* **Informing** achieve understanding or obtain commitment.
+  > The main goal is to elicit feedback to make sure that the communication is effective.
+* **Deciding** support the process of decision-making and often target managers
+  > The main goal is to obtain a decision or a choice between several options.
+* **Designing** support the design process from initial sketch to detailed design
+  > The main goal is usually to define or refine a target.
+
+### Content
+* **Overview** - helicopter view on a subject which usually mixes multiples domains 
+  > targets decision-makers or enterprise architects.
+* **Coherence/Collaboration** - focus on one specific topic, but seen through multiple complementary angles.
+  > collaboration between people, processes or tools.
+* **Details** - focus on one specific topic and zoom in only one of its aspects.
+  > subject matter experts or software engineers.
+
+### Drawing 
+* avoid line crossing
+* bigger elements will be understood as being more important
+* Align elements on a grid and between each other.
+* Use whitespace instead of actually using a visual group.
+
 
 ## Waterfall++ - [V-Model system design](https://en.wikipedia.org/wiki/V-model_(software_development))
 ![v-model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Systems_Engineering_Process_II.svg/599px-Systems_Engineering_Process_II.svg.png)
@@ -63,6 +106,7 @@
 
 ## ADR 
 [Architecture Decision Records](https://adr.github.io/)
+also can be used during development/implementation phase ( not only architecture/design )
 * Context
 * Decision
 * Refused options

@@ -5,6 +5,71 @@
 ![base-target](https://i.postimg.cc/SxzC9f9z/togaf-base-target.png)  
 
 # Archimate
+## Examples
+* [examples, cookbook, ... ](https://www.hosiaisluoma.fi/blog/category/archimate/)
+## Elements
+### [Motivation](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Motivation-Elements.html)
+* **Stakeholder**  
+  * role
+  * team
+  * organization
+  * group
+* **Driver**
+  * what motivate to make changes  
+  * source of influence
+  * internal or external condition   
+  Examples:
+    * Costs
+    * GDPR
+    * Market Share
+    * Re-organization 
+    * Profitability
+* **Assessment**
+  * outcome of the evaluation of the driver  
+  * result of analysis of the driver
+  Examples:
+    * Costs are too high
+    * Order Process has flaws
+    * Customers complain about the helpdesk
+* **Goal**  
+  end state that stakeholder intend to achieve  
+  common/general expression with: "increase", "improve", "reduce", "easier"
+  Examples:
+    * Process automation
+    * Efficient customer service
+    * Increse revenue
+    * Occupy high place in ranking system
+    * Improve profit
+* **Outcome**  
+  Realize/Implementation of the goal (in most cases),  
+  that going to be achieved.  
+  Unambiguosly specify the end result - measurable result
+  Examples:
+    * Robots instead of people 
+    * Customer satisfaction increased in 15%
+    * revenue should be at least 12% per year
+    * occupy at least 3-rd place in ranking system
+    * increate profit by 10%  
+* **Value**
+  represent benefit, gain, advantage, artifact (phisical or virtual!)
+  Examples:
+    * Human Capital
+    * Price
+    * Partnership
+    * Brand
+* **Principle**
+* **Requirement**  
+  Realize/Implementation of the Outcome - required property of the implementation.
+* **Constraint**
+  Realize/Implementation of the Outcome - limitation of the implementation.
+
+
+### [Strategy](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
+
+### [Implementation and Migration](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Implementation-and-Migration-Layer.html)
+
+### [Stakeholders, Architecture Views, Viewpoints](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Stakeholders-Architecture-Views-and-Viewpoints.html)
+
 ## useful links
 * [specification](https://pubs.opengroup.org/architecture/archimate3-doc/)
 * [guide](https://www.visual-paradigm.com/guide/archimate/full-archimate-viewpoints-guide/)
@@ -35,44 +100,3 @@ Update destination SVG with all links from documentation properties ( also add p
 
 ## Archimate with Class diagram  ( my own invention )
 ![archimate with class diagram](https://i.ibb.co/rwH798t/archimate-with-class-diagrams.png)
-
-
-# Start drawing
-## [Perspectives](http://weblog.tetradian.com/2012/06/06/inside-in-inside-out-outside-in-outside-out/)
-* **inside-in**
-  > develop a broad understanding of what clean-up would be required    
-  > _within each domain in scope_   
-* **outside-out**
-  > develop a broad understanding of the  
-  > _overall business-ecosystem_, in its own terms,   
-  > independent of our own organisation  
-* **outside-in**
-  > develop a broad to detailed understanding of  
-  > _how others would interact and transact with our organisation_, from their perspective  
-* **inside-out**
-  > (usually together with a detailed _inside-in_): develop a detailed architecture     
-  > for each domain, each from its own perspective,    
-  > drawing on each of _outside-in_ perspectives for guidance    
-
-## Purpose/Viewpoints
-inside-in
-* **Informing** achieve understanding or obtain commitment.
-  > The main goal is to elicit feedback to make sure that the communication is effective.
-* **Deciding** support the process of decision-making and often target managers
-  > The main goal is to obtain a decision or a choice between several options.
-* **Designing** support the design process from initial sketch to detailed design
-  > The main goal is usually to define or refine a target.
-
-## Content
-* **Overview** - helicopter view on a subject which usually mixes multiples domains 
-  > targets decision-makers or enterprise architects.
-* **Coherence/Collaboration** - focus on one specific topic, but seen through multiple complementary angles.
-  > collaboration between people, processes or tools.
-* **Details** - focus on one specific topic and zoom in only one of its aspects.
-  > subject matter experts or software engineers.
-
-## Drawing 
-* avoid line crossing
-* bigger elements will be understood as being more important
-* Align elements on a grid and between each other.
-* Use whitespace instead of actually using a visual group.
