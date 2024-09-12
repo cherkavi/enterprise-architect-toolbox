@@ -206,7 +206,9 @@ Data + Context = Information
     * анализ матричных данных
     * схема потока
 
-## [books](https://www.goodreads.com/shelf/show/software-architecture)
+## books
+* [books collection](https://github.com/mhadidg/software-architecture-books)
+* [books collection](https://www.goodreads.com/shelf/show/software-architecture)
 * Clean Architecture ( Robet C. Martin )
 * Domain-Driven Design: Tackling Complexity in the Heart of Software
 * Software Architecture in Practice ( Len Bass )
