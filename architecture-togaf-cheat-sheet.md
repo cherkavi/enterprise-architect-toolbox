@@ -43,7 +43,9 @@
 * **Outcome**  
   Realize/Implementation of the goal (in most cases),  
   that going to be achieved.  
-  Unambiguosly specify the end result - measurable result
+  Unambiguosly specify the end result - measurable result.
+  Influence on the Goal can be positive and Negative.  
+  Difference between goals and outcomes: not all outcomes lead to the intended results.
   Examples:
     * Robots instead of people 
     * Customer satisfaction increased in 15%
