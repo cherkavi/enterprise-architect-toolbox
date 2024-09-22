@@ -206,11 +206,15 @@ Data + Context = Information
     * анализ матричных данных
     * схема потока
 
-## [books](https://www.goodreads.com/shelf/show/software-architecture)
+## books
+* [books collection](https://github.com/mhadidg/software-architecture-books)
+* [books collection](https://www.goodreads.com/shelf/show/software-architecture)
 * System Design Interview – An insider's guide ( Alex Xu )
 * Software Architecture in Practice ( Len Bass )
 * The Software Architect Elevator ( Grehor Hohpe )
 * Clean Architecture ( Robet C. Martin )
 * Domain-Driven Design: Tackling Complexity in the Heart of Software
+* Software Architecture in Practice ( Len Bass )
+* The Software Architect Elevator ( Grehor Hohpe )
 * 97 Things Every Software Architect Should Know ( Richard Monson )
 * 37 Things One Architect Knows ( Gregor Hohpe )

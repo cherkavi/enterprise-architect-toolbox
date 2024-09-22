@@ -16,3 +16,5 @@
 * SRS - Software Requirement Specification
 * MVP - Minimal Viable Product
 * ADR - Architecture Decision Records
+* ABB - Architecture Building Block
+* SBB - Solution Building Block
