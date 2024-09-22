@@ -207,9 +207,10 @@ Data + Context = Information
     * схема потока
 
 ## [books](https://www.goodreads.com/shelf/show/software-architecture)
-* Clean Architecture ( Robet C. Martin )
-* Domain-Driven Design: Tackling Complexity in the Heart of Software
+* System Design Interview – An insider's guide ( Alex Xu )
 * Software Architecture in Practice ( Len Bass )
 * The Software Architect Elevator ( Grehor Hohpe )
+* Clean Architecture ( Robet C. Martin )
+* Domain-Driven Design: Tackling Complexity in the Heart of Software
 * 97 Things Every Software Architect Should Know ( Richard Monson )
 * 37 Things One Architect Knows ( Gregor Hohpe )
