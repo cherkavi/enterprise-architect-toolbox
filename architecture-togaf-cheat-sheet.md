@@ -1,4 +1,4 @@
-# Togaf
+# The Open Group Architecture Framework
 
 [togaf phases](https://pubs.opengroup.org/togaf-standard/adm/chap03.html)    
 ![togaf phases](https://pubs.opengroup.org/togaf-standard/adm/Figures/a_vis.png)  
@@ -8,63 +8,91 @@
 ## Examples
 * [examples, cookbook, ... ](https://www.hosiaisluoma.fi/blog/category/archimate/)
 ## Elements
-### [Motivation](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Motivation-Elements.html)
-* **Stakeholder**  
-  * role
-  * team
-  * organization
-  * group
-* **Driver**
-  * what motivate to make changes  
-  * source of influence
-  * internal or external condition   
-  Examples:
-    * Costs
-    * GDPR
-    * Market Share
-    * Re-organization 
-    * Profitability
-* **Assessment**
-  * outcome of the evaluation of the driver  
-  * result of analysis of the driver
-  Examples:
-    * Costs are too high
-    * Order Process has flaws
-    * Customers complain about the helpdesk
-* **Goal**  
-  end state that stakeholder intend to achieve  
-  common/general expression with: "increase", "improve", "reduce", "easier"
-  Examples:
-    * Process automation
-    * Efficient customer service
-    * Increse revenue
-    * Occupy high place in ranking system
-    * Improve profit
-* **Outcome**  
-  Realize/Implementation of the goal (in most cases),  
-  that going to be achieved.  
-  Unambiguosly specify the end result - measurable result.
-  Influence on the Goal can be positive and Negative.  
-  Difference between goals and outcomes: not all outcomes lead to the intended results.
-  Examples:
-    * Robots instead of people 
-    * Customer satisfaction increased in 15%
-    * revenue should be at least 12% per year
-    * occupy at least 3-rd place in ranking system
-    * increate profit by 10%  
-* **Value**
-  represent benefit, gain, advantage, artifact (phisical or virtual!)
-  Examples:
-    * Human Capital
-    * Price
-    * Partnership
-    * Brand
-* **Principle**
-* **Requirement**  
-  Realize/Implementation of the Outcome - required property of the implementation.
-* **Constraint**
-  Realize/Implementation of the Outcome - limitation of the implementation.
 
+### [Motivation](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Motivation-Elements.html)
+
+#### **Stakeholder**  
+* role
+* team
+* organisation
+* group
+
+#### **Driver**
+* what motivate to make changes  
+* source of influence
+* internal or external condition   
+Examples:
+  * Costs
+  * GDPR
+  * Market Share
+  * Re-organization 
+  * Profitability
+
+#### **Assessment**
+* outcome of the evaluation of the driver  
+* result of analysis of the driver
+Examples:
+  * Costs are too high
+  * Order Process has flaws
+  * Customers complain about the helpdesk
+
+#### **Goal**  
+end state that stakeholder intend to achieve  
+common/general expression with: "increase", "improve", "reduce", "easier"
+Examples:
+  * Process automation
+  * Efficient customer service
+  * Increase revenue
+  * Occupy high place in ranking system
+  * Improve profit
+
+#### **Outcome**  
+Realise/Implementation of the goal (in most cases),  
+that is going to be achieved.  
+Unambiguously specify the end result - measurable result.
+Influence on the Goal can be positive and Negative.  
+Difference between goals and outcomes: not all outcomes lead to the intended results.
+Examples:
+  * Robots instead of people 
+  * Customer satisfaction increased in 15%
+  * revenue should be at least 12% per year
+  * occupy at least 3-rd place in ranking system
+  * increase profit by 10%  
+
+#### **Value**
+represent benefit, gain, advantage, artefact (phisycal or virtual!)
+Examples:
+  * Human Capital
+  * Price
+  * Partnership
+  * Brand
+
+#### **Principle**
+
+#### **Requirement**  
+Realise/Implementation of the Outcome - required property of the implementation.
+##### Types:
+* Functional Requirements
+  * functional
+    > content of input/output/intermittent information
+  * behavioural
+    > internal states of the system/sub-systems
+  * data
+    > structure of input/output information
+* Non Functional Requirements ( Quality Attributes )
+  * performance
+  * security
+  * reliability
+  * usability
+  * maintainability
+  * portability
+##### Sources:
+* Stakeholders
+* Documents
+* Existing system/application 
+
+#### **Constraint**
+  Realise/Implementation of the Outcome - limitation of the implementation.
 
 ### [Strategy](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
 
