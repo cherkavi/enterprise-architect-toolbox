@@ -72,7 +72,7 @@ Examples:
 #### **Requirement**  
 Realise/Implementation of the Outcome - required property of the implementation.
 ##### Types:
-* Functional Requirements ( "Shift"==FR + nFR? )
+* Functional Requirements (FR == UseCases) ( "Shift"==FR + nFR? )
   * functional
     > content of input/output/intermittent information
   * behavioural
