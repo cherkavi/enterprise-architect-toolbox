@@ -72,14 +72,14 @@ Examples:
 #### **Requirement**  
 Realise/Implementation of the Outcome - required property of the implementation.
 ##### Types:
-* Functional Requirements
+* Functional Requirements ( "Shift"==FR + nFR? )
   * functional
     > content of input/output/intermittent information
   * behavioural
     > internal states of the system/sub-systems
   * data
     > structure of input/output information
-* Non Functional Requirements ( Quality Attributes )
+* Non Functional Requirements ( Quality Attributes ) ( "Lift" == nFR )
   * performance
   * security
   * reliability
