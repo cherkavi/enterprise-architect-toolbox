@@ -69,8 +69,9 @@ Examples:
 
 #### **Principle**
 
-#### **Requirement**  
-Realise/Implementation of the Outcome - required property of the implementation.
+#### **Requirement**, **Constraint**
+Realise/Implementation of the Outcome - demands/limitations of the implementation.
+
 ##### Types:
 * Functional Requirements
   * functional
@@ -90,9 +91,6 @@ Realise/Implementation of the Outcome - required property of the implementation.
 * Stakeholders
 * Documents
 * Existing system/application 
-
-#### **Constraint**
-  Realise/Implementation of the Outcome - limitation of the implementation.
 
 ### [Strategy](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
 
