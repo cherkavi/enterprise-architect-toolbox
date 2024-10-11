@@ -1,9 +1,9 @@
-# Conflict 
+# conflict resolution
 > how to manage existing outcomes after conflicts
 > checklist for before/after conflict events
 
 
-## Conflict situation description
+## conflict situation description
 > need to have chronology of events ( with proofs if possible )
 1. write down all events and mark conflict-events
    ```mermaid
@@ -33,13 +33,13 @@
 5. who (shrink previous list) has done commitment in conflict-initiator events ?
 6. what happend during conflict events ( with involved persons )
 
-## Conflict analysing
+## conflict analysing
 > for each of the listed below points provide also list of people from previous steps
 1. why do you think that you have experienced conflict (red events) ?
 2. what was negative/emotional in each situation for you ?
 3. what the consiquences are you expecting to see in future ?
 
-## Conflict next step
+## conflict next step
 1. try to image situation/state when you will be satisfied with any "compensation" from "aggressor side"
 2. is it possible to achieve this "compensation" ?
    1. yes - move on
