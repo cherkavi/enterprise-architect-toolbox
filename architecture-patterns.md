@@ -11,7 +11,7 @@
 
 # Architecture styles
 ![architecture styles](https://i.ibb.co/52ZqR8M/architecture-patterns.png)
-> TODO: [cell-based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) (cellular architecture)
+> :TODO: [cell-based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) (cellular architecture)
 
 ## Architecture style: Microservice
 ### Microservices Benefits:
