@@ -13,6 +13,7 @@ collection of tools/approaches/methods for everyday work.
 
 ## Decision making
 * [my own invention for making decisions](./decision-maker.md)
+* [decision matrix - fast solution for evaluation](https://en.wikipedia.org/wiki/Decision_matrix)
 
 ## Analysing
 
