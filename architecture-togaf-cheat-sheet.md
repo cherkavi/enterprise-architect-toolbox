@@ -67,9 +67,7 @@ Examples:
   * Partnership
   * Brand
 
-#### **Principle**
-
-#### **Requirement**, **Constraint**
+#### **Requirement**, **Principle**, **Constraint**
 Realise/Implementation of the Outcome - demands/limitations of the implementation.
 
 ##### Types:
