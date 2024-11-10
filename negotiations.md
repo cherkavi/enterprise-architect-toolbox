@@ -1,8 +1,14 @@
 # Negotiations
 1. collect information about your [opponent](#opponent)
 2. prepare for negotiations with [negotiation map](#negotiation-map)
-3. during the negotiations [make notes](#making-notes) and write your thoughts
-4. make a "retrospective" afterwards
+3. [make a suggestion](#make-a-suggestion)
+4. during the negotiations your state is:
+   1. confidence in your power
+   2. conviction in your view(s)
+   3. clarity of mind
+   4. drive ( you like it )
+5. during the negotiations [make notes](#making-notes) and write your thoughts
+6. make a "retrospective" afterwards
 
 ## Opponent 
 ### You can speak with:
@@ -43,7 +49,7 @@ y(you) --> s1((.))  --> s2((.))  --> s3((.))  --> s4((.)) --> s5((.)) --> o(oppo
 ```
 
 ## Negotiation map
-similar (diff focus) tool: [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+### [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ```
 ----------------------------------------------------
 |                        |                         |
@@ -55,7 +61,6 @@ similar (diff focus) tool: [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_an
 |                        |                         |
 ----------------------------------------------------
 ```
-
 
 ### Advices
 #### Explanation cards
@@ -159,6 +164,21 @@ prepare story(ies) about each of them
 |                                     |                                      |
 ------------------------------------------------------------------------------
 ```
+
+## make a suggestion
+### focus on opponent ( investor )
+"what is here for him/her ?"
+### suggestion
+* superlative description
+* "suggestion to kill for"
+  * ideal
+  * emphasize superlative description 
+* make a link in your speach between:  
+```
+past  ----->  present -----> future
+        ^ your input here
+                        ^ your input here  
+````
 
 ## making notes
 ```
