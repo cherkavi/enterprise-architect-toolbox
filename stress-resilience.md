@@ -5,6 +5,12 @@
 |  what you feel      |  transformed to |
 |---------------------|-----------------|
 |     ~~stress~~      |   challenge,    |
-| ~~rage/fury/anger~~ |   opportunity   |
-|     sadness         |   for growth    |
+| ~~rage/fury/anger~~ |   opportunity for growth  |
+|   ~~sadness~~       |                 |
+
+## Discomfort
+small difficulties and obstacles should be a norm of your day-life
+* the preparation of yourself for a big jump
+* self control
+* when you have difficulties - you are growing
 
