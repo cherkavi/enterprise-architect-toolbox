@@ -21,6 +21,7 @@ collection of tools/approaches/methods for everyday work.
 * [pre negotiations, proposal/offer](./proposal-offer.md)
 * [negotiations](./negotiations.md)
 * [conflicts](./conflict.md)
+* [stress resilience](./stress-resilience.md)
 
 ## Employee adaptation
 
