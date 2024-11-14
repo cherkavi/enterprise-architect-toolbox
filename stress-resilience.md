@@ -1,4 +1,7 @@
 # Stress resilience
+for your internal peace you must rely on yourself 
+( not on someone )
+Input stress  ---> Transformation ---> Self confident (goal oriented)
 
 ## Perception of events
 **you should see only positive sides**
