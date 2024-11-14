@@ -4,7 +4,8 @@ for your internal peace you must rely on yourself
 ```mermaid
 flowchart LR
 
-is[Input stress]  --> tr[Transformation] --> sf[Self confident (goal oriented)]
+is[Input stress]  --> tr[Transformation] --> sf[Self confident
+                                                goal oriented ]
 ```
 
 ## Perception of events
