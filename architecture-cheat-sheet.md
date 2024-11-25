@@ -43,7 +43,7 @@
 ## Architecture context
 ![architecture context]( https://i.ibb.co/YWth7fR/architecture-context.png)
 
-## Start drawing, drawing focus and purposes
+## Start drawing, drawing focus and purposes, requirement gathering before drawing
 ### [Perspectives](http://weblog.tetradian.com/2012/06/06/inside-in-inside-out-outside-in-outside-out/)
 * **inside-in**
   > develop a broad understanding of what clean-up would be required    
