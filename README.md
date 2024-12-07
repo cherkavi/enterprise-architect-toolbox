@@ -29,3 +29,20 @@ collection of tools/approaches/methods for everyday work.
 * [patterns, antipatterns, styles](./architecture-patterns.md) 
 * [antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 
+## Notation
+- UML
+- SysML
+- Archimate
+- [C4 - context, container, component, code](https://c4model.com/)
+
+### unusual types of diagrams
+- [DB Markup Language](https://dbml.dbdiagram.io/home)
+- [D2 - Declarative Diagrams](https://d2lang.com/)
+  - [D2 github](https://github.com/terrastruct/d2)
+- [Block Diagrams](http://blockdiag.com/en/blockdiag/examples.html)
+- [Network Diagrams](http://blockdiag.com/en/nwdiag/index.html)
+- [GraphViz - structural information as diagrams of abstract graphs and networks](https://www.graphviz.org/)
+- [Pikchr - tech documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
+- [Symbolator is a component diagramming tool for VHDL and Verilog](https://kevinpt.github.io/symbolator/)
+- [TikZ - LATEX style language for describing graphics in text](https://pgf-tikz.github.io/pgf/pgfmanual.pdf)
+- [WireViz - cable/wiring documentation ](https://github.com/wireviz/WireViz)
