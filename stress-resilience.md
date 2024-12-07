@@ -41,3 +41,26 @@ small difficulties and obstacles should be a norm of your day-life
 * change negative feeling to "dry facts" only (without your emotions)
   > cognitive restructuration 
 * self control - clear vision during the difficulties
+
+## self-discipline
+* habits
+* responsibilities for the actions
+* reflection:
+  * what is for me
+  * what to avoid 
+* put aside your ad-hoc/immediate desire(s)
+
+## education - every day
+
+## course of actions
+* wisdom
+* courage
+* abstension
+* admit and correct mistakes
+
+## detachment
+* break link with stress - rid it off, distancing
+* inevitability of losses
+* less material attachments
+* independence from others ( emotionally ), pillar inside yourself
+* focus on the process, not the result
