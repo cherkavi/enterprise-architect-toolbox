@@ -10,8 +10,9 @@
 ![architecture phases]( https://i.ibb.co/rk7bkK3/architecture-phases.png)
 
 # Architecture styles
-![architecture styles](https://i.ibb.co/52ZqR8M/architecture-patterns.png)
+* ![architecture styles](https://i.ibb.co/52ZqR8M/architecture-patterns.png)
 > :TODO: [cell-based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) (cellular architecture)
+* [data mesh](./data-mesh.md)
 
 ## Architecture style: Microservice
 ### Microservices Benefits:
