@@ -14,4 +14,6 @@ after the meeting - work on right part.
 Write down with red color "what you hear" ( capture ).
 Write down with blue/pencil "what you think/feel" ( create )
 
-## meeting leader
+## meeting leader, meeting coordinator
+### [meeting time controller](https://github.com/cherkavi/meeting-time-controller)
+with this console tool you can measure time of your meeting points ( meeting chapters )
