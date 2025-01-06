@@ -43,17 +43,30 @@ Questionary:
   * [copy existing solution/idea](#exercises), but add your unique style 
   * develop your unique style - it is your advantage
 
+### exercises
+* break up to the steps:
+  * implementation (practice)
+  * cognitive areas of knowledge (understanding)
+* find out difficult and cumbersome steps - practice them separately
+* copy of existing success stories/examples
+* have you stuck ?:
+  1. step back
+  2. learn
+  3. try again
+* in order not to give up - set up timer for 10 min 
+
 ### focusing
 > breathing 4x4   
 > breathing 30-30, 30-60, 30-90
+* you should devote/prepare:
+  * time in your calendar
+  * place for working on
+  * all tools
+* use what you learn in practice: pet-project or real task
 * procrastination ( how to overcome )
   * why do you procrastinating ?
     * any emotions ?
     * any pain points ?
-  * you should devote:
-    * time in your calendar
-    * place for working on
-    * all tools
   * start with first 5/10 min of the time ( apply pomodoro after )
   * patience, diligence
 * distractions
@@ -66,24 +79,6 @@ Questionary:
   * switching activities 
   * find your level of concentration/excitement
 
-### goal oriented
-> use what you learn in practice 
-* pet-project ( or modeling )
-* start to use (your goal) the knowledge immediately
-* take a look more deeper and wider
-
-### exercises
-* break up to the steps:
-  * implementation 
-  * cognitive areas of knowledge
-* find out difficult and cumbersome steps - practice them separately
-* copy of existing success stories/examples
-* have you stuck ?:
-  1. step back
-  2. learn
-  3. try again
-* in order not to give up - set up timer for 10 min 
-
 ### fixing/consolidation
 > when something is not pan out - it's good
 * try to solve without books and clues
@@ -93,7 +88,7 @@ Questionary:
 * find out ( or even generate ) problem for solving with currently learned knoweledge - apply
 * for [facts/remember](#what-) - repeat in intevals ( like Anki )
 * overlearning 
-  * [deeper and wider](#goal-oriented)
+  * take a look more deeper and wider
   * longer, after understanding
 * mnemonic association with real-life parallel 
   * like pillars for http packages ... 
