@@ -11,6 +11,9 @@ collection of tools/approaches/methods for everyday work.
 * [cheat sheet Togaf::archimate + sequence diagram](./architecture-togaf-cheat-sheet.md#archimate-with-sequence-diagram-my-own-invention)
 * [cheat sheet Togaf::archimate + class diagram](./architecture-togaf-cheat-sheet.md#archimate-with-class-diagram-my-own-invention)
 
+## Learning
+* [Ultralearning (Scott Young + update)](./ultralearning.md)
+
 ## Decision making
 * [my own invention for making decisions](./decision-maker.md)
 * [decision matrix - fast solution for evaluation](https://en.wikipedia.org/wiki/Decision_matrix)
