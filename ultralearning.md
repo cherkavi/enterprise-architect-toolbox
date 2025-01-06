@@ -43,18 +43,6 @@ Questionary:
   * [copy existing solution/idea](#exercises), but add your unique style 
   * develop your unique style - it is your advantage
 
-### exercises
-* break up to the steps:
-  * implementation (practice)
-  * cognitive areas of knowledge (understanding)
-* find out difficult and cumbersome steps - practice them separately
-* copy of existing success stories/examples
-* have you stuck ?:
-  1. step back
-  2. learn
-  3. try again
-* in order not to give up - set up timer for 10 min 
-
 ### focusing
 > breathing 4x4   
 > breathing 30-30, 30-60, 30-90
@@ -69,6 +57,7 @@ Questionary:
     * any pain points ?
   * start with first 5/10 min of the time ( apply pomodoro after )
   * patience, diligence
+  * in order not to give up - set up timer for 10 min, try again 
 * distractions
   * external: wrong place, people, smart devices ?
   * internal: tire, emotions, wishes, wrong type of materials
@@ -93,6 +82,16 @@ Questionary:
 * mnemonic association with real-life parallel 
   * like pillars for http packages ... 
   * like water pump for electricity
+
+### exercises
+* break up to the steps:
+  * implementation (practice)
+  * cognitive areas of knowledge (understanding)
+* find out difficult and cumbersome steps - practice them separately
+* have you stuck ?:
+  1. step back
+  2. learn
+  3. try again
 
 ### feedback
 > is necessary for understanding your real level ( Quo vadis ?)  
