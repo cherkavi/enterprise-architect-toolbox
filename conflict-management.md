@@ -4,6 +4,7 @@
 
 
 ## escalation
+Friedrich Glasl's model of stages of conflict escalation  
 ### win-win
 1. first tension, diff options, no camp, discussable 
 2. debate, each side persuade with arguments another, press
