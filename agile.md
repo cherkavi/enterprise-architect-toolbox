@@ -8,6 +8,11 @@
 * [LeSS](https://less.works/)
   * [LeSS book](https://less.works/user-content/member/Learning-Resources/less_book.html)
 
+# agile alternatives
+* LEAN ( ToyotaProductionSystem )
+  > It aimed to reduce inventory costs and improve the efficiency of the automobile supply chain by eliminating any type of waste.   
+  > for standard/repeat work, not for complex tasks
+
 # my own improvements of Scrum/LeSS/XP
 
 ## Context
