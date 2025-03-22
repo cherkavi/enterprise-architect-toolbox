@@ -4,8 +4,22 @@
 | Business Concept | [Semantic model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_02) | [Business process model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_02) | [Business logistics system](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_02) | [Work flow model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_02) | [Master schedule](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_02) | [Business plan](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_02) |
 | System Logic | [Logical data model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_03) | [Application architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_03) | [Distributed system architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_03) | [Human interface architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_03) | [Processing structure](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_03) | [Business rule model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_03) |
 | Technology (Physical) | [Physical data model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_04) | [System design](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_04) | [Technology architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_04) | [Presentation architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_04) | [Control structure](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_04) | [Rule design](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_04) |
-| Detailed Representations (Out-of-Context) | [Data definition](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_05) | [Program](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_05) | [Network architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_05) | [Security architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_05) | [Timing definition](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_05) | [Rule specification](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_05) |
-| Functioning Enterprise | [Actual data](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_06) | [Working programs](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_06) | [Network infrastructure](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_06) | [Organization](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_06) | [Schedule](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_06) | [Strategy in action](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_06) |
+| Tool And Components (details) 
+	| [Data definition](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_05) 
+	| [Program](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_05) 
+	| [Network architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_05) 
+	| [Security architecture](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_05) 
+	| [Timing definition](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_05) 
+	| [Rule specification](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_05) 
+|
+| Functioning Enterprise 
+	| [Actual data](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_06) 
+	| [Working programs](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_04_06) 
+	| [Network infrastructure](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_05_06) 
+	| [Organization](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_06_06) 
+	| [Schedule](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_07_06) 
+	| [Strategy in action](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_08_06) 
+|
 
 ## Scope (Contextual)
 1. [List of things important to the business](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html#tag_39_03_01)
