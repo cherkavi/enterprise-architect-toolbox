@@ -14,6 +14,8 @@ collection of tools/approaches/methods for everyday work.
 
 ### [Zachman](./zachman.md)
 
+## Security 
+* [security in automotive](cyber-security-auto.md)
 
 ## Patterns, antipatterns, styles
 * [patterns, antipatterns, styles](./architecture-patterns.md) 
@@ -85,9 +87,11 @@ collection of tools/approaches/methods for everyday work.
 ## Learning
 * [Ultralearning (Scott Young + update)](./ultralearning.md)
 
+
 ## Decision making
 * [my own invention for making decisions](./decision-maker.md)
 * [decision matrix - fast solution for evaluation](https://en.wikipedia.org/wiki/Decision_matrix)
+
 
 ## Analysing
 
@@ -97,6 +101,7 @@ collection of tools/approaches/methods for everyday work.
 * [conflicts management](./people-interactions/conflict-management.md)
 * [conflicts resolution](./people-interactions/conflict-resolution.md)
 * [stress resilience](./people-interactions/stress-resilience.md)
-
-## Employee adaptation
+* [people influence](./people-influence.md)
+* [meetings culture](./meetings.md)
+* TODO: employee adaptation
 
