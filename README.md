@@ -21,7 +21,8 @@ collection of tools/approaches/methods for everyday work.
 
 ## Notation
 - UML
-- SysML
+  - SysML
+    - [RAAML](https://www.omg.org/spec/RAAML/1.0/About-RAAML) ( Risk Analysis and Assessment Modeling Language )
 - Archimate
 - [C4 - context, container, component, code](https://c4model.com/)
 
