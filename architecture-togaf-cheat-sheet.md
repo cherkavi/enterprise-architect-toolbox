@@ -92,6 +92,13 @@ Realise/Implementation of the Outcome - demands/limitations of the implementatio
 * Existing system/application 
 
 ### [Strategy](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
+### [Business](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Business-Layer.html)
+Start of understanding existing business Model can be started from:
+* Operational Model ( part of capability model)
+* Capability Model 
+
+### [Application](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Application-Layer.html)
+### [Technology](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Technology-Layer.html)
 
 ### [Implementation and Migration](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Implementation-and-Migration-Layer.html)
 
