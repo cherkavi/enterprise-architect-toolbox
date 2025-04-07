@@ -30,6 +30,13 @@ collection of tools/approaches/methods for everyday work.
 - Archimate
 - [C4 - context, container, component, code](https://c4model.com/)
 
+## Connect notation with code, test code to belong to architecture style 
+* ArchUnit.org
+  * pyTestArch
+  * github.com/ts-arch/ts-arch
+* [sonargraph](https://hello2morrow.com/products/sonargraph/architect9)
+
+
 ### unusual types of diagrams
 - [DB Markup Language](https://dbml.dbdiagram.io/home)
 - [D2 - Declarative Diagrams](https://d2lang.com/)
