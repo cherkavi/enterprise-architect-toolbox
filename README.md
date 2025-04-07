@@ -114,3 +114,4 @@ collection of tools/approaches/methods for everyday work.
 * [meetings culture](./meetings.md)
 * TODO: employee adaptation
 
+## [Strategy](./strategy.md)
