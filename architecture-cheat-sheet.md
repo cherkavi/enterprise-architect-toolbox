@@ -43,6 +43,21 @@
 ## Architecture context
 ![architecture context]( https://i.ibb.co/YWth7fR/architecture-context.png)
 
+## Before start of work:
+* feasibility
+  * technologies
+  * team
+  * resources ( time and budget )
+* observability
+  > how to evaluate the outcomes of your effort during all phases
+* agility of the solution
+  * changeability
+  * testability
+  * deployability
+  * evolution
+* modularity 
+  > split your solution to modules 
+
 ## Start drawing, drawing focus and purposes, requirement gathering before drawing
 ### [Perspectives](http://weblog.tetradian.com/2012/06/06/inside-in-inside-out-outside-in-outside-out/)
 * **inside-in**
