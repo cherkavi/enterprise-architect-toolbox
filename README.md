@@ -3,6 +3,7 @@ collection of tools/approaches/methods for everyday work.
 
 ## common
 * [architecture](./architecture-cheat-sheet.md)
+* [architecture theorie](./architecture-theorie.md)
 * [list of abbreviations](./abbreviations.md)
 
 ## Enterprise Architecture frameworks

@@ -1,4 +1,14 @@
-# The Open Group Architecture Framework
+# The Open Group Architecture Framework - TOGAF
+> initiative based process.  
+> each step - transformation and governance.  
+```mermaid
+flowchart LR
+
+bdg[business drivers
+    and goals] <--> t[TOGAF]
+t <--> bc[business capabilities 
+          and business solutions]
+```
 
 [togaf phases](https://pubs.opengroup.org/togaf-standard/adm/chap03.html)    
 ![togaf phases](https://pubs.opengroup.org/togaf-standard/adm/Figures/a_vis.png)  

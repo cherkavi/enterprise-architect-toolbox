@@ -1,4 +1,5 @@
 # Zachman framework
+> framework for describing enterprise from diff points of view
 
 ## Links
 * [Togaf and Zachman](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap39.html)
