@@ -2,6 +2,7 @@
 
 ## meeting attendee
 ### way of actively present on a meeting version 1
+![image](https://user-images.githubusercontent.com/8113355/175804952-de19152d-397b-4cf5-9166-9b26f47bdc5f.png)  
 split your notebook on left and right parts:
 * left: capture what you hear
 * right: create/write your impressions

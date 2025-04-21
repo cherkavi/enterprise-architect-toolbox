@@ -7,6 +7,7 @@ collection of tools/approaches/methods for everyday work.
 * [list of abbreviations](./abbreviations.md)
 
 ## Enterprise Architecture frameworks
+
 ### Togaf
 * [cheat sheet Togaf](./architecture-togaf-cheat-sheet.md)
 * [cheat sheet Togaf::archimate](./architecture-togaf-cheat-sheet.md#archimate)
@@ -37,8 +38,7 @@ collection of tools/approaches/methods for everyday work.
   * github.com/ts-arch/ts-arch
 * [sonargraph](https://hello2morrow.com/products/sonargraph/architect9)
 
-
-### unusual types of diagrams
+### Unusual types of diagrams
 - [DB Markup Language](https://dbml.dbdiagram.io/home)
 - [D2 - Declarative Diagrams](https://d2lang.com/)
   - [D2 github](https://github.com/terrastruct/d2)
@@ -93,26 +93,37 @@ collection of tools/approaches/methods for everyday work.
   * [method description](https://www.hermes.admin.ch/en/project-management/method-overview/hermes-projektmanagement-methodenelemente.html)
   * [method overview](https://www.hermes.admin.ch/en/project-management/method-overview.html)
 
-
 ## Learning
 * [Ultralearning (Scott Young + update)](./ultralearning.md)
-
 
 ## Decision making
 * [my own invention for making decisions](./decision-maker.md)
 * [decision matrix - fast solution for evaluation](https://en.wikipedia.org/wiki/Decision_matrix)
 
-
 ## Analysing
+* [pre negotiations, proposal/offer](./people-interactions/proposal-offer.md)
 
 ## People interaction
-* [pre negotiations, proposal/offer](./people-interactions/proposal-offer.md)
+### Negotiations
 * [negotiations](./people-interactions/negotiations.md)
+
+### Conflicts
 * [conflicts management](./people-interactions/conflict-management.md)
 * [conflicts resolution](./people-interactions/conflict-resolution.md)
 * [stress resilience](./people-interactions/stress-resilience.md)
+
+### Influence 
 * [people influence](./people-influence.md)
-* [meetings culture](./meetings.md)
+
+### Meetings
+* [meetings culture](./meetings.md)  
 * TODO: employee adaptation
 
 ## [Strategy](./strategy.md)
+
+## Timing
+![procrastination](https://i.postimg.cc/XqxR8YWY/procrastination.png)  
+![work-rest-balance](https://i.postimg.cc/nzmV07Sc/work-rest-balance.png)  
+
+## Performance
+![mind speed up](https://i.postimg.cc/3JRVh772/mind-speedup.png)  

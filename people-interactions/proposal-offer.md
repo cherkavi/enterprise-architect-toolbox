@@ -19,3 +19,9 @@ Active structure (you) is trying to roll out proposal process and offer service 
    2. notification about your question
 6. Response analysing
    1. ❔ Preparation for the [first negotiation](./negotiations.md).
+
+## What is your suggestion ?
+* ![value proposition canvas, demands suggestion matrix](https://cdn.esputnik.com/photos/shares/Blog/images/value-proposition-canvas-08.webp)
+  [article](https://esputnik.com/blog/chto-takoe-value-proposition-canvas)  
+* ![what is here for me](https://i.ibb.co/9yp0q27/2023-08-27-edu-what-is-here-for-me.jpg)    
+  * ![how to sell cicd pipeline to business people](https://i.ibb.co/51wxRp4/2023-06-07-10-48.jpg)

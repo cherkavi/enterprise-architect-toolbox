@@ -191,3 +191,6 @@ past  ----->  present -----> future
 |                                                     |                      |
 ------------------------------------------------------------------------------
 ```
+
+## state in negotiations 
+  ![state in negotiations](https://i.postimg.cc/SsG8RtD3/negotiations.png)  
