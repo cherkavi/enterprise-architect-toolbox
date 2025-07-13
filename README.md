@@ -6,6 +6,11 @@ collection of tools/approaches/methods for everyday work.
 * [architecture theorie](./architecture-theorie.md)
 * [list of abbreviations](./abbreviations.md)
 
+## system types
+* information system
+* [embedded system](./architecture-embedded.md)
+* real-time system
+
 ## Enterprise Architecture frameworks
 
 ### Togaf
@@ -25,12 +30,22 @@ collection of tools/approaches/methods for everyday work.
 * [patterns, antipatterns, styles](./architecture-patterns.md) 
 * [antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 
-## Notation
-- UML
+## Architecture Description Languages ( ADL )
+- [UML](uml.md)
   - SysML
     - [RAAML](https://www.omg.org/spec/RAAML/1.0/About-RAAML) ( Risk Analysis and Assessment Modeling Language )
-- Archimate
+- [Archimate](./architecture-togaf-cheat-sheet.md#archimate)
 - [C4 - context, container, component, code](https://c4model.com/)
+- Acme
+- AADL (Architecture Analysis & Design Language)
+- Wright
+- xADL
+- Darwin
+- MetaH
+- UniCon
+- C2
+- Rapide
+- SysML (sometimes considered an ADL, though more general)
 
 ## Connect notation with code, test code to belong to architecture style 
 * ArchUnit.org
@@ -49,6 +64,9 @@ collection of tools/approaches/methods for everyday work.
 - [Symbolator is a component diagramming tool for VHDL and Verilog](https://kevinpt.github.io/symbolator/)
 - [TikZ - LATEX style language for describing graphics in text](https://pgf-tikz.github.io/pgf/pgfmanual.pdf)
 - [WireViz - cable/wiring documentation ](https://github.com/wireviz/WireViz)
+- [Bioinformatics SBML](https://sbml.org/)
+- [BioPAX biological pathway](https://www.biopax.org/)
+- [geography markup language](https://www.ogc.org/standards/gml/)
 
 ## [Project Management methodologies](project-management-methodologies.md)
 
