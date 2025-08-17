@@ -1,4 +1,4 @@
-# Proposal or Offer
+# How to make proposal, offer, suggestion
 First phase of collaboration between business actors.
 Active structure (you) is trying to roll out proposal process and offer service for another Business Actor.
 
