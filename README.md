@@ -81,7 +81,7 @@ collection of tools/approaches/methods for everyday work.
 * [decision matrix - fast solution for evaluation](https://en.wikipedia.org/wiki/Decision_matrix)
 
 ## Analysing
-* [pre negotiations, proposal/offer](./people-interactions/proposal-offer.md)
+* [pre negotiations, what I can propose/offer/suggest](./people-interactions/proposal-offer.md)
 
 ## People interaction
 ### Negotiations
