@@ -18,7 +18,6 @@
   - [OPC Foundation](https://opcfoundation.org/)
     - https://reference.opcfoundation.org/DI/v102/docs/4.2.1/
   - [OPC UA](https://github.com/model-UA/uml-to-opcua)
-  - [IEEE Computer Society](https://www.computer.org/)
 
 ### UML4ODP (Open Distributed Processing) RM-ODP (Reference Model of Open Distributed Processing)
 - **Purpose**: Distributed systems architecture
@@ -26,8 +25,7 @@
 - **Applications**: Large-scale distributed systems
 - **Links**:  
   - [use UML for ODP](https://cdn.standards.iteh.ai/samples/68641/df5d5236c264473cabc4528c3c866291/ISO-IEC-19793-2015.pdf)
-  - [sparx odp](https://sparxsystems.com/products/3rdparty/odp)
-  - [ITU-T X.906](https://www.itu.int/rec/T-REC-X.906)
+  - [sparx odp library](https://sparxsystems.com/products/3rdparty/odp)
   - Modeling the ODP computational viewpoint with UML 2.0
 
 ### UMLsec

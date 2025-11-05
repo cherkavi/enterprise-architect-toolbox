@@ -83,6 +83,11 @@ collection of tools/approaches/methods for everyday work.
 ## Analysing
 * [pre negotiations, what I can propose/offer/suggest](./people-interactions/proposal-offer.md)
 
+## Incidents, Issues
+* why it happend
+* how to predict it in future
+* how to correct it faster next time
+
 ## People interaction
 ### Negotiations
 * [negotiations](./people-interactions/negotiations.md)
