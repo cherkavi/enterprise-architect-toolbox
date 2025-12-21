@@ -92,6 +92,9 @@ collection of tools/approaches/methods for everyday work.
 ### Negotiations
 * [negotiations](./people-interactions/negotiations.md)
 
+### Interview
+* [interviewing](./people-interactions/interviewing.md)
+
 ### Conflicts
 * [conflicts management](./people-interactions/conflict-management.md)
 * [conflicts resolution](./people-interactions/conflict-resolution.md)
