@@ -30,6 +30,9 @@ collection of tools/approaches/methods for everyday work.
 * [patterns, antipatterns, styles](./architecture-patterns.md) 
 * [antipatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 
+## Documentation
+Tutorial is not a documentation. Tutorial used by end users ( not for ~~build~~, ~~how to change~~, ~~operations~~ )
+
 ## Architecture Description Languages ( ADL )
 - [UML](uml.md)
   - SysML
