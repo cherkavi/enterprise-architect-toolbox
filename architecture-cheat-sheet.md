@@ -32,6 +32,9 @@
 8. Design Target Architecture ( with Options to achieve MVP )
 9. Migration Plan to target architecture
 
+## Architecture tactics
+design decisions to achieve quality attributes ( like response time )
+
 ## Agile and Architecture
 1. not exhausted UpFront design
 2. Documentation only with critical points

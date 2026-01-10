@@ -89,6 +89,13 @@ collection of tools/approaches/methods for everyday work.
 * how to correct it faster next time
 
 ## People interaction
+
+### psycho types
+* [people psycho types](./people.md#people-psycho-types)
+
+### society types
+* [people society types](./people.md#people-society-classification-types)
+
 ### Negotiations
 * [negotiations](./people-interactions/negotiations.md)
 
@@ -101,7 +108,7 @@ collection of tools/approaches/methods for everyday work.
 * [stress resilience](./people-interactions/stress-resilience.md)
 
 ### Influence 
-* [people influence](./people-influence.md)
+* [people influence](./people.md#people-influence)
 
 ### Meetings
 * [meetings culture](./meetings.md)  
