@@ -34,6 +34,7 @@
 |<span style="color:red">**Red**</span>    |now              |Task-oriented, decisive, critical thinker       |thinkers:logic and efficiency        |Extroverted, fast paced, energized by social interaction|
 |<span style="color:gold">**Yellow**</span>|together         |Relationship-driven, enthusiastic, optimistic   |feeler: feelings and impact on people|Extroverted, fast paced, energized by social interaction|
 
+![personality](https://i.ibb.co/cKDf2K67/Colour-quadrants.png)
 
 ### people give up
 > you should **detect** and **manage** that reasons
