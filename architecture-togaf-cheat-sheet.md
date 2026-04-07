@@ -106,6 +106,12 @@ Realise/Implementation of the Outcome - demands/limitations of the implementatio
 Start of understanding existing business Model can be started from:
 * Operational Model ( part of capability model)
 * Capability Model 
+  * Map capability ( Top->Medium->Detailed levels )
+  * Rate capability ( Green, Orange, Red )
+  * Identify capability uplifts
+  * Prioritise capabilities 
+  * Create business roadmap 
+  * Create technology roadmap
 
 ### [Application](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Application-Layer.html)
 ### [Technology](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Technology-Layer.html)
