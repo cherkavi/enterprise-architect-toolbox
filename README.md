@@ -5,6 +5,8 @@ collection of tools/approaches/methods for everyday work.
 * [architecture](./architecture-cheat-sheet.md)
 * [architecture theorie](./architecture-theorie.md)
 * [list of abbreviations](./abbreviations.md)
+* [concepts](./software-engineering-concepts.md)
+* [creativity, start creation, break the ice .... ](creativity)
 
 ## system types
 * information system
