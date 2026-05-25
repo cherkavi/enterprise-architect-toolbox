@@ -2,6 +2,29 @@
 
 ## UML Profiles and extensions 
 
+### UML EDOC
+EDOC (Enterprise Distributed Object Computing) - UML Profile.  
+Create visual map for ideas, so the development team knows exactly what to code.  
+The EDOC Solution: It shifts the focus to "Roles" and "Ports." It asks: What is this service expected to do in this specific business process, and how does it plug into the rest of the ecosystem?
+EDOC provides a way to model **collaborations** rather than just static objects.
+
+* **The Problem:** Traditional UML classes focus on internal structure (data and methods).
+* **The EDOC Solution:** It shifts the focus to **"Roles"** and **"Ports."** It asks: *What is this service expected to do in this specific business process, and how does it plug into the rest of the ecosystem?*
+
+Instead of drawing monolithic class diagrams, think in "EDOC Terms":
+* **Identify Communities:** Group your microservices or business units into "Communities" (bounded contexts).
+* **Define Interaction Roles:** Don't just draw a box for "OrderService." Define the *role* it plays in the "Checkout Process" (e.g., the *Validator*, the *PaymentProcessor*, or the *Notifier*).
+* **Focus on Ports & Connectors:** Stop using generic lines. Define the *interface* (Port) and the *interaction protocol* (Connector—e.g., REST, gRPC, Kafka topic). This makes your architecture resilient to change because you can swap the internal implementation of a "service" as long as the "port" remains the same.
+
+If you want to adopt this style of thinking, use these visual patterns:
+| Concept           | The "EDOC" Way to View It                    | Modern Translation                         |
+| ---               | ---                                          | ---                                        |
+| **Collaboration** | A set of roles working together.             | A Saga, a workflow, or a business process. |
+| **Role**          | What a component does in a specific context. | Service interface or Consumer/Producer.    |
+| **Port**          | The boundary of a component.                 | API endpoint, Message queue consumer.      |
+| **Connector**     | The glue between components.                 | HTTP/JSON, Protobuf, Pub/Sub events.       |
+
+
 ### UML-RT (UML for Real-Time)
 - **Purpose**: Real-time and embedded systems modeling
 - **Key Features**: Capsules, ports, protocols, state machines with timing
