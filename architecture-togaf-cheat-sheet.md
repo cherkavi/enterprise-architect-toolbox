@@ -15,9 +15,12 @@ t <--> bc[business capabilities
 ![base-target](https://i.postimg.cc/SxzC9f9z/togaf-base-target.png)  
 
 # Archimate
+![metamodel](https://gbruneau.github.io/ArchiMate/images/en/metamodel-en.png)
 ![archimate intro](https://i.ibb.co/ypZxpbM/archimate-intro.jpg)
+
 ## Examples
 * [examples, cookbook, ... ](https://www.hosiaisluoma.fi/blog/category/archimate/)
+
 ## Elements
 
 ### [Motivation](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Motivation-Elements.html)
@@ -102,6 +105,12 @@ Realise/Implementation of the Outcome - demands/limitations of the implementatio
 * Existing system/application 
 
 ### [Strategy](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
+#### course of actions
+#### capability
+
+#### value stream
+#### resource
+
 ### [Business](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Business-Layer.html)
 Start of understanding existing business Model can be started from:
 * Operational Model ( part of capability model)
