@@ -105,11 +105,19 @@ Realise/Implementation of the Outcome - demands/limitations of the implementatio
 * Existing system/application 
 
 ### [Strategy](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
-#### course of actions
+
 #### capability
+what are you **able** to do ?
+
+#### resource
+what do you **need** for that ?
+
+#### course of actions
+how are you going to **achieve** that ?
 
 #### value stream
-#### resource
+what is the **results** ?
+
 
 ### [Business](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Business-Layer.html)
 Start of understanding existing business Model can be started from:
