@@ -83,8 +83,10 @@ Realise/Implementation of the Outcome - demands/limitations of the implementatio
 # [Strategy View](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Strategy-Layer.html)
 
 ## course of actions
+how are you going to **achieve** that ?
 
 ## Business Capability
+> what are you **able** to do ?
 **Goal:** Bridge the gap between Business Strategy and Tech Strategy to define actionable, unique, and atomic capabilities.  
 Business Strategy and Tech strategy hasve different goals, different languages in communication between diff group of people. 
 The foundational challenge is aligning **Business Strategy** with **Technology Strategy**.
@@ -184,9 +186,12 @@ The Business Roadmap must **map to** the Technology Roadmap.
     *   The note mentions "TOGAF Capability Frameworks -> 2G / YT Cap. Map. Mastery in 15 min". This suggests the source is a rapid educational overview (likely from a "Youtube" video) aiming to distill complex TOGAF/ArchiMate theory into a practical 15-minute framework.
 
 
-## value stream
-
 ## resource
+what do you **need** for that ?
+
+## value stream
+what is the **results** ?
+
 
 # [Business Layer](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Business-Layer.html)
 Start of understanding existing business Model can be started from:
@@ -206,4 +211,3 @@ Start of understanding existing business Model can be started from:
 # [Implementation and Migration view](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Implementation-and-Migration-Layer.html)
 
 # [Stakeholders, Architecture Views, Viewpoints](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Stakeholders-Architecture-Views-and-Viewpoints.html)
-
